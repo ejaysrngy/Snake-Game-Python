@@ -7,3 +7,5 @@ A basic snake game that uses the WASD to control the snake and steer it towards 
 Once it reaches a certain score it'll speed it up and make things more challenging <br />
 <br />
 The code was done with minimal hints, only stopped and referred to the videos regarding the logic of increasing the snake's length when it eats the food. <br />
+<br />
+![demo] (https://github.com/ejaysrngy/Snake-Game-Python/blob/main/demo.gif)
