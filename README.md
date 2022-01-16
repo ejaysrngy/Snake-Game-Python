@@ -8,4 +8,4 @@ Once it reaches a certain score it'll speed it up and make things more challengi
 <br />
 The code was done with minimal hints, only stopped and referred to the videos regarding the logic of increasing the snake's length when it eats the food. <br />
 <br />
-![demo](https://github.com/ejaysrngy/Snake-Game-Python/blob/main/demo.gif) 
+![demo](https://github.com/ejaysrngy/Snake-Game-Python/blob/main/demo.gif | width=640 height=360) 
